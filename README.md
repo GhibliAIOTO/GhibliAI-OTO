@@ -1,0 +1,2 @@
+# GhibliAI-OTO
+GhibliAI OTO
